@@ -4,12 +4,18 @@
 
 I have a particular interest in front end technology and design. I also enjoy to work on some back end projects involving scraping and automation. 
 
-Skills: React / JavaScript / HTML / CSS / PostgreSQL / Node
-
-- 🔭 I’m currently working on a full-stack telegram bot. 
+## Skills: 
+*  ⚛ React
+* 📱 JavaScript
+* 🖥 HTML
+* 🎨 CSS
+* 🔍 PostgreSQL
+* 🌲 Node.js
 
 
 Check out some of my work: https://dannymccabe.dev/ 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darnomccode)](https://github.com/anuraghazra/github-readme-stats)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/daniel-mccabe-dev//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dannymccabe.dev/) 
 
