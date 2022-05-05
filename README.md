@@ -3,7 +3,7 @@
 
 ### I'm a self-taught software developer.
 
-I have a particular interest in front end technology and design. I also enjoy to work on some back end projects involving scraping and automation. 
+I have a particular interest in front end technology and design. I also enjoy working on some back end projects involving scraping and automation. 
 
 ## 🔧 Skills and Tools: 
 
