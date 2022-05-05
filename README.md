@@ -12,6 +12,8 @@ I have a particular interest in front end technology and design. I also enjoy wo
 ## Check out some of my work: 
 https://dannymccabe.dev/ 
 
+## 📈 Stats
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darnomccode)](https://github.com/anuraghazra/github-readme-stats)
 
 
