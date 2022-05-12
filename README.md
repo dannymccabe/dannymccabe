@@ -1,7 +1,7 @@
 # Hi there 👋,  My name is Danny
 ![I'm a self-taught software developer.](https://media-exp1.licdn.com/dms/image/C4D16AQG1I9ZqIRb5iA/profile-displaybackgroundimage-shrink_350_1400/0/1646071996447?e=1657152000&v=beta&t=J04CXvs_tEqQgIoT0L5WP5LSp_RB0yJ_ckONsrk2s9Q)
 
-### I'm a self-taught software developer.
+### I'm a software developer from Ireland.
 
 I have a particular interest in front end technology and design. I also enjoy working on some back end projects involving scraping and automation. 
 
