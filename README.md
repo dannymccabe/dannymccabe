@@ -1,5 +1,4 @@
 # Hi there 👋,  My name is Danny
-![I'm a self-taught software developer.](https://media-exp2.licdn.com/dms/image/C4D16AQG1I9ZqIRb5iA/profile-displaybackgroundimage-shrink_350_1400/0/1646071996447?e=1663804800&v=beta&t=IdIqUGUDphjN8_z806XD9VQarE77fcsBL_BDiK0GbpI)
 
 ### I'm a software developer from Ireland.
 
@@ -12,8 +11,6 @@ I have a particular interest in front end technology and design. I also enjoy wo
 ## Check out some of my work: 
 https://dannymccabe.dev/ 
 
-## 📈 Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darnomccode)](https://github.com/anuraghazra/github-readme-stats)
 
 
